@@ -1,0 +1,19 @@
+body > header {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(72, 171, 241);
+    color: white;
+}
+
+body > header > nav > ul > li {
+    list-style: none;
+    color: white;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+#logo {
+    margin: 0;
+}
